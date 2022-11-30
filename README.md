@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @grissomlau
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning react,go and algorithm
+- 🌱 I’m currently learning react,rust and algorithm
 - 💞️ I’m looking to collaborate on microservice framework
 - 📫 Reaching me by emailing to grissomlau@qq.com
 
